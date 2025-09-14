@@ -7,11 +7,11 @@
 
 A lightweight, interactive Streamlit quiz app designed to test your knowledge of Indian History (1900–1947).
 Supports multiple question types, scoring logic, explanations, and a persistent leaderboard.
+<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/047da10e-be0a-41f5-b109-5e6c48477d37" />
 
-📸 Screenshot
-<img src="screenshot.png" alt="App Screenshot" width="600"/>
+<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/2909e22c-d2d2-4787-9bd1-58ddd1706878" />
 
-Replace screenshot.png with your actual screenshot.
+<img width="940" height="1010" alt="image" src="https://github.com/user-attachments/assets/783ed3b2-ff52-4d61-badc-57bb628d0636" />
 
 🚀 Features (MVP)
 
