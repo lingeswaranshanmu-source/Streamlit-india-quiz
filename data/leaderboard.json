@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Ling's Result",
+    "mode": "fixed",
+    "score": 163,
+    "correct_count": 8,
+    "questions_count": 10,
+    "duration_seconds": 62,
+    "created_at": "2025-09-14T10:32:40.101234"
+  },
+  {
+    "username": "Regressing Ling Score",
+    "mode": "fixed",
+    "score": 177,
+    "correct_count": 8,
+    "questions_count": 10,
+    "duration_seconds": 52,
+    "created_at": "2025-09-14T10:34:39.883331"
+  }
+]
