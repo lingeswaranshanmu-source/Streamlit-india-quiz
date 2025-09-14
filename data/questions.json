@@ -1,0 +1,766 @@
+[
+  {
+    "id": "q0001",
+    "year": 1915,
+    "topic": "Gandhi's Return",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "In which year did Mahatma Gandhi return to India from South Africa?",
+    "options": [
+      "1910",
+      "1915",
+      "1920",
+      "1930"
+    ],
+    "answer": "1915",
+    "explanation": "Mahatma Gandhi returned to India in 1915 after his campaigns in South Africa."
+  },
+  {
+    "id": "q0002",
+    "year": 1919,
+    "topic": "Jallianwala Bagh",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "On which date did the Jallianwala Bagh massacre take place?",
+    "options": [
+      "13 April 1919",
+      "15 August 1919",
+      "30 January 1919",
+      "26 January 1920"
+    ],
+    "answer": "13 April 1919",
+    "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919."
+  },
+  {
+    "id": "q0003",
+    "year": 1920,
+    "topic": "Non-Cooperation",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Who launched the Non-Cooperation Movement in 1920?",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "Mahatma Gandhi",
+    "explanation": "Gandhi launched the Non-Cooperation Movement in 1920."
+  },
+  {
+    "id": "q0004",
+    "year": 1942,
+    "topic": "Quit India",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Which movement was launched by the Indian National Congress in 1942 demanding an end to British rule?",
+    "options": [
+      "Quit India Movement",
+      "Civil Disobedience Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement"
+    ],
+    "answer": "Quit India Movement",
+    "explanation": "The Quit India Movement was launched in 1942."
+  },
+  {
+    "id": "q0005",
+    "year": 1919,
+    "topic": "Rowlatt Act",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "In which year did the Rowlatt Act result in widespread protests?",
+    "options": [
+      "1919",
+      "1922",
+      "1908",
+      "1930"
+    ],
+    "answer": "1919",
+    "explanation": "The Rowlatt Act provoked widespread protests and unrest."
+  },
+  {
+    "id": "q0006",
+    "year": 1929,
+    "topic": "Lahore Session",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Who was the President of the Indian National Congress at the Lahore Session of 1929?",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "explanation": "Jawaharlal Nehru presided over the Lahore Session in 1929."
+  },
+  {
+    "id": "q0007",
+    "year": 1931,
+    "topic": "Round Table Conference",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Who represented the Indian National Congress at the Second Round Table Conference in 1931?",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "B. R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "answer": "Mahatma Gandhi",
+    "explanation": "Gandhi attended the Second Round Table Conference in 1931."
+  },
+  {
+    "id": "q0008",
+    "year": 1946,
+    "topic": "Cabinet Mission",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "The Cabinet Mission Plan was sent to India in which year?",
+    "options": [
+      "1942",
+      "1946",
+      "1947",
+      "1935"
+    ],
+    "answer": "1946",
+    "explanation": "The Cabinet Mission Plan came to India in 1946 to discuss independence."
+  },
+  {
+    "id": "q0009",
+    "year": 1942,
+    "topic": "Quit India",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Who gave the call of 'Do or Die' during the Quit India Movement?",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Bhagat Singh"
+    ],
+    "answer": "Mahatma Gandhi",
+    "explanation": "Gandhi gave the call of 'Do or Die' in 1942."
+  },
+  {
+    "id": "q0010",
+    "year": 1939,
+    "topic": "Forward Bloc",
+    "type": "mcq",
+    "difficulty": "medium",
+    "question": "Who founded the Forward Bloc after resigning from the Congress?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "Subhas Chandra Bose",
+    "explanation": "Subhas Chandra Bose founded the Forward Bloc in 1939."
+  },
+  {
+    "id": "q0011",
+    "year": 1928,
+    "topic": "Simon Commission",
+    "type": "true_false",
+    "difficulty": "easy",
+    "question": "The Simon Commission included Indian members.",
+    "answer": "False",
+    "explanation": "The Simon Commission had no Indian members."
+  },
+  {
+    "id": "q0012",
+    "year": 1942,
+    "topic": "INA",
+    "type": "true_false",
+    "difficulty": "easy",
+    "question": "The Indian Independence League was formed by Subhas Chandra Bose.",
+    "answer": "True",
+    "explanation": "Subhas Bose formed the Indian Independence League."
+  },
+  {
+    "id": "q0013",
+    "year": 1919,
+    "topic": "Montagu-Chelmsford",
+    "type": "true_false",
+    "difficulty": "easy",
+    "question": "The Montagu-Chelmsford Reforms were introduced in 1919.",
+    "answer": "True",
+    "explanation": "The Government of India Act 1919 was based on these reforms."
+  },
+  {
+    "id": "q0014",
+    "year": 1942,
+    "topic": "Cripps Mission",
+    "type": "true_false",
+    "difficulty": "easy",
+    "question": "The Cripps Mission came to India in 1942.",
+    "answer": "True",
+    "explanation": "Sir Stafford Cripps led the mission in 1942."
+  },
+  {
+    "id": "q0015",
+    "year": 1940,
+    "topic": "August Offer",
+    "type": "true_false",
+    "difficulty": "easy",
+    "question": "The August Offer was announced in 1940.",
+    "answer": "True",
+    "explanation": "The British Government made the August Offer in 1940."
+  },
+  {
+    "id": "q0016",
+    "year": 1920,
+    "topic": "Non-Cooperation",
+    "type": "fill_blank",
+    "difficulty": "medium",
+    "question": "The Non-Cooperation Movement began in ____.",
+    "answer": [
+      "1920"
+    ],
+    "explanation": "It was launched in 1920 after the Khilafat resolutions."
+  },
+  {
+    "id": "q0017",
+    "year": 1930,
+    "topic": "Civil Disobedience",
+    "type": "fill_blank",
+    "difficulty": "medium",
+    "question": "The Civil Disobedience Movement began in ____.",
+    "answer": [
+      "1930"
+    ],
+    "explanation": "It began with the Salt March in 1930."
+  },
+  {
+    "id": "q0018",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "fill_blank",
+    "difficulty": "medium",
+    "question": "India gained independence in ____.",
+    "answer": [
+      "1947"
+    ],
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0019",
+    "year": 1942,
+    "topic": "Quit India",
+    "type": "fill_blank",
+    "difficulty": "medium",
+    "question": "The Quit India Movement started in ____.",
+    "answer": [
+      "1942"
+    ],
+    "explanation": "It started in August 1942 demanding British withdrawal."
+  },
+  {
+    "id": "q0020",
+    "year": 1935,
+    "topic": "Govt of India Act",
+    "type": "fill_blank",
+    "difficulty": "medium",
+    "question": "The Government of India Act was passed in ____.",
+    "answer": [
+      "1935"
+    ],
+    "explanation": "The Government of India Act 1935 was the longest act passed by British Parliament."
+  },
+  {
+    "id": "q0021",
+    "year": 1930,
+    "topic": "Freedom Leaders",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Match the leader with the associated event/movement.",
+    "pairs": [
+      {
+        "left": "Gandhi",
+        "right": "Salt March"
+      },
+      {
+        "left": "Subhas Chandra Bose",
+        "right": "INA"
+      },
+      {
+        "left": "Bhagat Singh",
+        "right": "HSRA"
+      }
+    ],
+    "explanation": "These pairs reflect prominent associations in the independence struggle."
+  },
+  {
+    "id": "q0022",
+    "year": 1916,
+    "topic": "Leaders and Movements",
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Match the leader with the associated event/movement.",
+    "pairs": [
+      {
+        "left": "Jawaharlal Nehru",
+        "right": "Lahore Session"
+      },
+      {
+        "left": "Bal Gangadhar Tilak",
+        "right": "Home Rule"
+      },
+      {
+        "left": "Annie Besant",
+        "right": "Theosophy"
+      }
+    ],
+    "explanation": "These pairs reflect prominent associations in the independence struggle."
+  },
+  {
+    "id": "q0023",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0024",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0025",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0026",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0027",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0028",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0029",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0030",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0031",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0032",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0033",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0034",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0035",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0036",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0037",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0038",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0039",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0040",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0041",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0042",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0043",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0044",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0045",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0046",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0047",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0048",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0049",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  },
+  {
+    "id": "q0050",
+    "year": 1947,
+    "topic": "Independence",
+    "type": "mcq",
+    "difficulty": "easy",
+    "question": "India became independent in which year?",
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1935"
+    ],
+    "answer": "1947",
+    "explanation": "India became independent on 15 August 1947."
+  }
+]
